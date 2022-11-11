@@ -9,3 +9,7 @@ FYP around estimation of objects with their bounding boxes and classification
 * Military and Civilian Vehicles Classification: 
 [https://data.mendeley.com/datasets/njdjkbxdpn/1](https://data.mendeley.com/datasets/njdjkbxdpn/1)
 * (Non-labelled) Military Tanks Dataset (Images):  [https://www.kaggle.com/datasets/antoreepjana/military-tanks-dataset-images](https://www.kaggle.com/datasets/antoreepjana/military-tanks-dataset-images)
+
+
+## Custom YOLO v4 Detector
+[https://medium.com/analytics-vidhya/train-a-custom-yolov4-object-detector-using-google-colab-61a659d4868#1a83](https://medium.com/analytics-vidhya/train-a-custom-yolov4-object-detector-using-google-colab-61a659d4868#1a83)
